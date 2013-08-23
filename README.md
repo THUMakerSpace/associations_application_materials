@@ -1,2 +1,3 @@
-associations_application_materials
+社团申请材料
 ==================================
+包括表格、申请书、管理办法等
